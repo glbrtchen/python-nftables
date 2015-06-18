@@ -2,12 +2,15 @@
 
 
 class Table:
-    pass
+    def __init__(self):
+        pass
 
 
 class Chain:
-    pass
+    def __init__(self):
+        pass
 
 
 class Rule:
-    pass
+    def __init__(self):
+        pass
